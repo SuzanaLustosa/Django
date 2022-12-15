@@ -87,6 +87,8 @@ DATABASES = {
         'USER': 'db',
         'PASSWORD': 'AVNS__y6G3B3csG3FTl3_3J3',
         'HOST': 'app-2af55a90-23a2-4809-9172-7ceefe0a2d4b-do-user-13094309-0.b.db.ondigitalocean.com',
+        'PORT': '25060',
+        'SSLMODE': 'require'
     }
 }
 

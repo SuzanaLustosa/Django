@@ -88,7 +88,6 @@ DATABASES = {
         'PASSWORD': 'AVNS_L7mpwzwVaCXDX4XM9EB',
         'HOST': 'aulas-do-user-13094309-0.b.db.ondigitalocean.com',
         'PORT': '25060',
-        'SSLMODE': 'require'
     }
 }
 

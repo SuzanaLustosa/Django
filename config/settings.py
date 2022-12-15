@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'default',
+        'NAME': 'defaultdb',
         'USER': 'doadmin',
         'PASSWORD': 'AVNS_L7mpwzwVaCXDX4XM9EB',
         'HOST': 'aulas-do-user-13094309-0.b.db.ondigitalocean.com',
-        'PORT': '25061',
+        'PORT': '25060',
     }
 }
 
